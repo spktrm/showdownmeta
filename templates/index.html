@@ -1,0 +1,72 @@
+{% extends 'base.html' %} {% block title %}Pokemon Team Compositions{% endblock
+%} {% block content %}
+<h1 class="text-center my-4">Pokemon Team Compositions</h1>
+<div class="text-center my-3">
+  <button class="btn btn-primary" onclick="toggleDarkTheme()">
+    Toggle Dark Theme
+  </button>
+</div>
+<div class="row">
+  {% for team in teams %}
+  <!-- Adjust the column size based on the user's screen size -->
+  <div class="col-12 col-sm-12 col-md-8 col-lg-2 mb-4">
+    <div class="card">
+      <div class="card-header text-center">
+        <a href="{{ url_for('team_analysis', team_id=loop.index0) }}"
+          >{{ team.team_name }}</a
+        >
+      </div>
+
+      <div class="card-body">
+        <div class="row">
+          {% for member in team.members %}
+          <div class="col-md-6">
+            <div class="row">
+              <div class="column">
+                <div
+                  class="img-fluid-species"
+                  alt="{{ member.name }}"
+                  data-spid={{ member.spid }}
+                  style="
+                    background-image: url(https://play.pokemonshowdown.com/sprites/pokemonicons-sheet.png?v12);
+                    width: 40px;
+                    height: 30px;
+                    background-position: 0px 0px;
+                    background-color: rgba(0, 0, 0, 0);
+                  "
+                ></div>
+                <div
+                  class="img-fluid-item"
+                  alt="{{ member.item }}"
+                  data-iid={{ member.iid }}
+                  style="
+                    background-image: url(https://play.pokemonshowdown.com/sprites/itemicons-sheet.png?g9);
+                    width: 24px;
+                    height: 24px;
+                    background-position: 0px 0px;
+                    background-color: rgba(0, 0, 0, 0);
+                  "
+                ></div>
+                <div class="histogram-container">
+                  <div class="histogram" data-values="{{member.evs}}"></div>
+                </div>
+              </div>
+              <div>
+                <div>{{ member.ability }}</div>
+                <br />
+                <div class="move-text">{{ member.moves[0] }}</div>
+                <div class="move-text">{{ member.moves[1] }}</div>
+                <div class="move-text">{{ member.moves[2] }}</div>
+                <div class="move-text">{{ member.moves[3] }}</div>
+              </div>
+            </div>
+            <br />
+          </div>
+          {% endfor %}
+        </div>
+      </div>
+    </div>
+  </div>
+  {% endfor %}
+</div>
+{% endblock %}

@@ -1,0 +1,41 @@
+body {
+  background-color: #f8f9fa;
+}
+
+.pikachu {
+  background-color: #f8f9fa;
+  color: #000000;
+}
+
+.grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  grid-gap: 20px;
+}
+.histogram-container {
+  display: inline-block;
+  margin-right: 10px;
+}
+
+.histogram {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+.bar-container {
+  display: flex;
+  align-items: center;
+  margin-bottom: 2px;
+}
+.bar {
+  height: 4px;
+  background-color: red;
+  margin-left: 5px;
+}
+.column-name {
+  font-size: 7px;
+}
+
+.move-text {
+  font-size: 14px;
+}

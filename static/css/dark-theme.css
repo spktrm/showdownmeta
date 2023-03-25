@@ -1,0 +1,15 @@
+/* Dark theme styles */
+body {
+  background-color: #343a40;
+  color: #f8f9fa;
+}
+
+.card {
+  background-color: #6c757d;
+}
+
+.card-header,
+.list-group-item {
+  background-color: #495057;
+  border-color: #212529;
+}

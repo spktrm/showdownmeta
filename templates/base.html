@@ -1,0 +1,150 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta
+      name="viewport"
+      content="width=device-width, initial-scale=1, shrink-to-fit=no"
+    />
+    <title>{% block title %}{% endblock %}</title>
+    <link
+      rel="stylesheet"
+      href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css"
+    />
+
+    <link
+      rel="stylesheet"
+      href="{{ url_for('static', filename='css/main.css') }}"
+    />
+    <link
+      rel="stylesheet"
+      href="{{ url_for('static', filename='css/dark-theme.css') }}"
+      id="dark-theme-style"
+      disabled
+    />
+    <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js"></script>
+    <script>
+      function toggleDarkTheme() {
+        const darkThemeStyle = document.getElementById("dark-theme-style");
+        const isEnabled = !darkThemeStyle.disabled;
+        darkThemeStyle.disabled = isEnabled;
+        localStorage.setItem("dark-theme-enabled", !isEnabled);
+      }
+
+      document.addEventListener("DOMContentLoaded", () => {
+        const isDarkThemeEnabled =
+          localStorage.getItem("dark-theme-enabled") === "true";
+        const darkThemeStyle = document.getElementById("dark-theme-style");
+        darkThemeStyle.disabled = !isDarkThemeEnabled;
+      });
+    </script>
+    <!-- <script>
+      function createHistogram(histogram) {
+        const values = histogram.dataset.values.split(",").map(Number);
+
+        values.forEach((value) => {
+          const bar = document.createElement("div");
+          bar.className = "bar";
+          bar.style.height = `${(value / 255) * 32}px`;
+          bar.style.backgroundColor = `rgb(${255 - value}, ${value}, 0)`;
+          histogram.appendChild(bar);
+        });
+      }
+
+      function initializeHistograms() {
+        const histograms = document.querySelectorAll(".histogram");
+        histograms.forEach(createHistogram);
+      }
+
+      document.addEventListener("DOMContentLoaded", initializeHistograms);
+    </script> -->
+  </head>
+
+  <body>
+    <div class="container-fluid">{% block content %}{% endblock %}</div>
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.9.3/dist/umd/popper.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+    <script>
+      function createHistogram(histogram) {
+        const values = JSON.parse(histogram.dataset.values);
+        const columnNames = ["HP", "ATK", "DEF", "SPA", "SPD", "SPE"];
+
+        values.forEach((value, index) => {
+          const barContainer = document.createElement("div");
+          barContainer.className = "bar-container";
+
+          const columnName = document.createElement("span");
+          columnName.className = "column-name";
+          columnName.textContent = columnNames[index];
+          barContainer.appendChild(columnName);
+
+          const bar = document.createElement("div");
+          bar.className = "bar";
+          bar.style.width = `${(value / 255) * 32}px`; // Corrected width calculation
+          bar.style.backgroundColor = `rgb(${255 - value}, ${value}, 0)`;
+          barContainer.appendChild(bar);
+
+          histogram.appendChild(barContainer);
+        });
+      }
+
+      function initializeHistograms() {
+        const histograms = document.querySelectorAll(".histogram");
+        histograms.forEach(createHistogram);
+      }
+
+      document.addEventListener("DOMContentLoaded", initializeHistograms);
+    </script>
+    <script>
+      function setSpeciesSpritePosition(element, spid) {
+        const spriteWidth = 40;
+        const spriteHeight = 30;
+        const spritesPerRow = 12; // Change this value to match the number of sprites per row in your sprite sheet
+
+        spid = parseInt(spid);
+        console.log(spid);
+        const row = Math.floor(spid / spritesPerRow);
+        const col = spid % spritesPerRow;
+
+        const backgroundPositionX = -col * spriteWidth;
+        const backgroundPositionY = -row * spriteHeight;
+
+        element.style.backgroundPosition = `${backgroundPositionX}px ${backgroundPositionY}px`;
+      }
+      function setItemSpritePosition(element, iid) {
+        const spriteWidth = 24;
+        const spriteHeight = 24;
+        const spritesPerRow = 16; // Change this value to match the number of sprites per row in your sprite sheet
+
+        iid = parseInt(iid);
+        console.log(iid);
+        const row = Math.floor(iid / spritesPerRow);
+        const col = iid % spritesPerRow;
+
+        const backgroundPositionX = -col * spriteWidth;
+        const backgroundPositionY = -row * spriteHeight;
+
+        element.style.backgroundPosition = `${backgroundPositionX}px ${backgroundPositionY}px`;
+      }
+
+      function initializeSprites() {
+        const speciescSpriteElements =
+          document.querySelectorAll(".img-fluid-species");
+        speciescSpriteElements.forEach((element) => {
+          const spid = parseInt(element.dataset.spid, 10);
+          setSpeciesSpritePosition(element, spid);
+        });
+        const itemSpriteElements = document.querySelectorAll(".img-fluid-item");
+        itemSpriteElements.forEach((element) => {
+          const iid = parseInt(element.dataset.iid, 10);
+          setItemSpritePosition(element, iid);
+        });
+      }
+
+      document.addEventListener("DOMContentLoaded", initializeSprites);
+    </script>
+  </body>
+</html>
