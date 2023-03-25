@@ -7,7 +7,6 @@ app = Flask(__name__)
 
 with open("clusters.json") as f:
     DATUM = json.load(f)
-DATUM *= 12
 
 @app.route("/team/<int:team_id>")
 def team_analysis(team_id):

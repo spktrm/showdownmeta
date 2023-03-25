@@ -22,7 +22,8 @@ from meloetta.data import (
     get_weather_token,
 )
 
-from sklearn.cluster import AgglomerativeClustering
+from sklearn.cluster import KMeans
+from tqdm.auto import tqdm
 
 
 def _softmax(weights: Sequence[float], temp: float = 1):
@@ -663,75 +664,81 @@ def main():
 
     teams = []
     i = 0
-    while True:
-        teams = []
-        for _ in range(2048):
-            teams.append(sampler.generate())
 
-        batch = []
-        for team in teams:
-            vector_team = []
-            for member in team:
-                member_vector = torch.tensor(
-                    [
-                        get_species_token(gen, "id", member["species"]),
-                        get_ability_token(gen, "id", member["ability"]),
-                        get_item_token(gen, "id", member["item"]),
-                    ]
-                    + [get_move_token(gen, "id", move) for move in member["moves"]]
-                    + [-1 for _ in range(4 - len(member["moves"]))]
-                    + [NATURES.get(member["nature"])]
-                    + member["evs"]
-                )
-                vector_team.append(member_vector)
-            vector_team = torch.stack(vector_team)
-            batch.append(vector_team)
-        batch = torch.stack(batch)
+    teams = []
+    for _ in tqdm(range(2048)):
+        teams.append(sampler.generate())
 
-        batch = batch.to(device)
+    batch = []
+    for team in teams:
+        vector_team = []
+        for member in team:
+            member_vector = torch.tensor(
+                [
+                    get_species_token(gen, "id", member["species"]),
+                    get_ability_token(gen, "id", member["ability"]),
+                    get_item_token(gen, "id", member["item"]),
+                ]
+                + [get_move_token(gen, "id", move) for move in member["moves"]]
+                + [-1 for _ in range(4 - len(member["moves"]))]
+                + [NATURES.get(member["nature"])]
+                + member["evs"]
+            )
+            vector_team.append(member_vector)
+        vector_team = torch.stack(vector_team)
+        batch.append(vector_team)
+    batch = torch.stack(batch)
 
-        with torch.no_grad():
-            vectors = model.encode(batch)
+    batch = batch.to(device)
 
-        # import matplotlib.pyplot as plt
+    with torch.no_grad():
+        vectors = model.encode(batch)
 
-        # distances_sorted = np.sort(
-        #     cdist[(torch.tril(torch.ones_like(cdist), diagonal=-1).bool())]
-        #     .cpu()
-        #     .numpy()
-        # )
-        # plt.plot(distances_sorted)
-        # plt.xlabel("Points sorted by distance")
-        # plt.ylabel("Distance")
-        # plt.show()
+    # import matplotlib.pyplot as plt
 
-        model = AgglomerativeClustering(n_clusters=None, distance_threshold=40)
-        labels = model.fit_predict(vectors.cpu().numpy())
+    # distances_sorted = np.sort(
+    #     cdist[(torch.tril(torch.ones_like(cdist), diagonal=-1).bool())]
+    #     .cpu()
+    #     .numpy()
+    # )
+    # plt.plot(distances_sorted)
+    # plt.xlabel("Points sorted by distance")
+    # plt.ylabel("Distance")
+    # plt.show()
 
-        cluster_centers = torch.stack(
-            [vectors[labels == index].mean(0) for index in np.unique(labels)]
-        )
-        cluster_centers = cluster_centers.to(device)
+    model = KMeans(n_clusters=18)#, distance_threshold=40)
+    labels = model.fit_predict(vectors.cpu().numpy())
 
-        closest = {
-            label: [team for _label, team in zip(labels, teams) if _label == label]
-            for label in np.unique(labels)
-        }
+    # cluster_centers = torch.stack(
+    #     [vectors[labels == index].mean(0) for index in np.unique(labels)]
+    # )
+    cluster_centers = torch.from_numpy(model.cluster_centers_)
+    cluster_centers = cluster_centers.to(device)
 
-        clusters = [
-            {"team_name": "team", "members": closest[i][0]} for i in range(len(closest))
-        ]
+    min_dist = torch.cdist(vectors, cluster_centers)
+    min_dist = min_dist.max() - min_dist
 
-        for cluster in clusters:
-            for member in cluster["members"]:
-                member["spid"] = dex["9"][member["species"]]["num"]
-                try:
-                    member["iid"] = items[member["item"]]
-                except:
-                    member["iid"] = 0
+    closest = {
+        # label: [team for _label, team in zip(labels, teams) if _label == label]
+        label: teams[min_dist[labels == label][:, label].argmin().item()]
+        for label in np.unique(labels)
+    }
 
-        with open("clusters.json", "w") as f:
-            json.dump(clusters, f)
+    clusters = [
+        # {"team_name": "team", "members": closest[i][0]} for i in range(len(closest))
+        {"team_name": "team", "members": closest[i]} for i in range(len(closest))
+    ]
+
+    for cluster in clusters:
+        for member in cluster["members"]:
+            member["spid"] = dex["9"][member["species"]]["num"]
+            try:
+                member["iid"] = items[member["item"]]
+            except:
+                member["iid"] = 0
+
+    with open("clusters.json", "w") as f:
+        json.dump(clusters, f)
 
 
 if __name__ == "__main__":
