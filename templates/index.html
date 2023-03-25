@@ -26,7 +26,7 @@
                 <div
                   class="img-fluid-species"
                   alt="{{ member.name }}"
-                  data-spid={{ member.spid }}
+                  data-spid="{{member.spid}}"
                   style="
                     background-image: url(https://play.pokemonshowdown.com/sprites/pokemonicons-sheet.png?v12);
                     width: 40px;
@@ -38,7 +38,7 @@
                 <div
                   class="img-fluid-item"
                   alt="{{ member.item }}"
-                  data-iid={{ member.iid }}
+                  data-iid="{{member.iid}}"
                   style="
                     background-image: url(https://play.pokemonshowdown.com/sprites/itemicons-sheet.png?g9);
                     width: 24px;
@@ -48,7 +48,11 @@
                   "
                 ></div>
                 <div class="histogram-container">
-                  <div class="histogram" data-values="{{member.evs}}"></div>
+                  <div
+                    class="histogram"
+                    data-values="{{member.evs}}"
+                    data-nature="{{member.nature}}"
+                  ></div>
                 </div>
               </div>
               <div>

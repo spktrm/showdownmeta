@@ -1,1 +1,2468 @@
-[{"team_name": "team", "members": [{"species": "polteageist", "ability": "weakarmor", "item": "focussash", "moves": ["shellsmash", "shadowball", "terablast", "storedpower"], "nature": "timid", "evs": [0, 0, 0, 252, 4, 252], "spid": 855, "iid": 151}, {"species": "armarouge", "ability": "weakarmor", "item": "focussash", "moves": ["expandingforce", "destinybond", "calmmind", "endure"], "nature": "timid", "evs": [0, 0, 4, 252, 0, 252], "spid": 936, "iid": 151}, {"species": "hatterene", "ability": "magicbounce", "item": "ejectbutton", "moves": ["dazzlinggleam", "healingwish", "psychic", "drainingkiss"], "nature": "bold", "evs": [252, 0, 204, 0, 0, 52], "spid": 858, "iid": 118}, {"species": "indeedee", "ability": "psychicsurge", "item": "terrainextender", "moves": ["encore", "psychic", "dazzlinggleam", "psyshock"], "nature": "timid", "evs": [0, 0, 0, 252, 4, 252], "spid": 876, "iid": 662}, {"species": "greattusk", "ability": "protosynthesis", "item": "leftovers", "moves": ["stealthrock", "knockoff", "rapidspin", "earthquake"], "nature": "adamant", "evs": [252, 12, 80, 0, 112, 52], "spid": 984, "iid": 242}, {"species": "volcarona", "ability": "flamebody", "item": "heavydutyboots", "moves": ["flamethrower", "morningsun", "bugbuzz", "psychic"], "nature": "modest", "evs": [0, 0, 0, 252, 4, 252], "spid": 637, "iid": 715}]}, {"team_name": "team", "members": [{"species": "espeon", "ability": "magicbounce", "item": "lightclay", "moves": ["lightscreen", "trickroom", "wish", "shadowball"], "nature": "quiet", "evs": [252, 0, 0, 252, 4, 0], "spid": 196, "iid": 252}, {"species": "meowscarada", "ability": "overgrow", "item": "choicescarf", "moves": ["knockoff", "spikes", "taunt", "flowertrick"], "nature": "jolly", "evs": [0, 252, 0, 0, 4, 252], "spid": 908, "iid": 69}, {"species": "greattusk", "ability": "protosynthesis", "item": "leftovers", "moves": ["closecombat", "rapidspin", "earthquake", "knockoff"], "nature": "jolly", "evs": [0, 252, 0, 0, 4, 252], "spid": 984, "iid": 242}, {"species": "hatterene", "ability": "magicbounce", "item": "leftovers", "moves": ["psyshock", "calmmind", "drainingkiss", "healingwish"], "nature": "modest", "evs": [252, 0, 132, 52, 0, 72], "spid": 858, "iid": 242}, {"species": "gholdengo", "ability": "goodasgold", "item": "choicescarf", "moves": ["recover", "shadowball", "makeitrain", "trick"], "nature": "timid", "evs": [0, 0, 0, 252, 4, 252], "spid": 1000, "iid": 69}, {"species": "volcarona", "ability": "flamebody", "item": "lifeorb", "moves": ["willowisp", "quiverdance", "bugbuzz", "fierydance"], "nature": "modest", "evs": [252, 0, 0, 112, 0, 144], "spid": 637, "iid": 249}]}, {"team_name": "team", "members": [{"species": "dragonite", "ability": "multiscale", "item": "heavydutyboots", "moves": ["dragondance", "earthquake", "roost", "extremespeed"], "nature": "adamant", "evs": [124, 252, 0, 0, 0, 132], "spid": 149, "iid": 715}, {"species": "orthworm", "ability": "eartheater", "item": "sitrusberry", "moves": ["ironhead", "shedtail", "metalburst", "stealthrock"], "nature": "impish", "evs": [252, 0, 252, 0, 0, 4], "spid": 968, "iid": 448}, {"species": "greattusk", "ability": "protosynthesis", "item": "heavydutyboots", "moves": ["closecombat", "stoneedge", "rapidspin", "earthquake"], "nature": "impish", "evs": [248, 8, 192, 0, 0, 60], "spid": 984, "iid": 715}, {"species": "gholdengo", "ability": "goodasgold", "item": "metalcoat", "moves": ["nastyplot", "thunderwave", "makeitrain", "focusblast"], "nature": "calm", "evs": [248, 0, 0, 0, 188, 72], "spid": 1000, "iid": 286}, {"species": "volcarona", "ability": "swarm", "item": "leftovers", "moves": ["morningsun", "flamethrower", "quiverdance", "gigadrain"], "nature": "bold", "evs": [248, 0, 204, 0, 0, 56], "spid": 637, "iid": 242}, {"species": "kingambit", "ability": "supremeoverlord", "item": "lumberry", "moves": ["kowtowcleave", "swordsdance", "suckerpunch", "ironhead"], "nature": "adamant", "evs": [96, 252, 0, 0, 0, 160], "spid": 983, "iid": 262}]}, {"team_name": "team", "members": [{"species": "dragonite", "ability": "multiscale", "item": "heavydutyboots", "moves": ["dragondance", "earthquake", "roost", "extremespeed"], "nature": "adamant", "evs": [124, 252, 0, 0, 0, 132], "spid": 149, "iid": 715}, {"species": "orthworm", "ability": "eartheater", "item": "sitrusberry", "moves": ["ironhead", "shedtail", "metalburst", "stealthrock"], "nature": "impish", "evs": [252, 0, 252, 0, 0, 4], "spid": 968, "iid": 448}, {"species": "greattusk", "ability": "protosynthesis", "item": "heavydutyboots", "moves": ["closecombat", "stoneedge", "rapidspin", "earthquake"], "nature": "impish", "evs": [248, 8, 192, 0, 0, 60], "spid": 984, "iid": 715}, {"species": "gholdengo", "ability": "goodasgold", "item": "metalcoat", "moves": ["nastyplot", "thunderwave", "makeitrain", "focusblast"], "nature": "calm", "evs": [248, 0, 0, 0, 188, 72], "spid": 1000, "iid": 286}, {"species": "volcarona", "ability": "swarm", "item": "leftovers", "moves": ["morningsun", "flamethrower", "quiverdance", "gigadrain"], "nature": "bold", "evs": [248, 0, 204, 0, 0, 56], "spid": 637, "iid": 242}, {"species": "kingambit", "ability": "supremeoverlord", "item": "lumberry", "moves": ["kowtowcleave", "swordsdance", "suckerpunch", "ironhead"], "nature": "adamant", "evs": [96, 252, 0, 0, 0, 160], "spid": 983, "iid": 262}]}, {"team_name": "team", "members": [{"species": "volcarona", "ability": "flamebody", "item": "heavydutyboots", "moves": ["quiverdance", "gigadrain", "fierydance", "morningsun"], "nature": "bold", "evs": [248, 0, 212, 0, 0, 48], "spid": 637, "iid": 715}, {"species": "lokix", "ability": "tintedlens", "item": "choiceband", "moves": ["throatchop", "brickbreak", "uturn", "firstimpression"], "nature": "jolly", "evs": [4, 252, 0, 0, 0, 252], "spid": 920, "iid": 68}, {"species": "gholdengo", "ability": "goodasgold", "item": "choicescarf", "moves": ["makeitrain", "shadowball", "nastyplot", "focusblast"], "nature": "timid", "evs": [0, 0, 0, 252, 4, 252], "spid": 1000, "iid": 69}, {"species": "greattusk", "ability": "protosynthesis", "item": "leftovers", "moves": ["closecombat", "earthquake", "bulkup", "rapidspin"], "nature": "impish", "evs": [252, 4, 252, 0, 0, 0], "spid": 984, "iid": 242}, {"species": "dragapult", "ability": "infiltrator", "item": "choicespecs", "moves": ["uturn", "dragondarts", "fireblast", "shadowball"], "nature": "modest", "evs": [0, 0, 0, 252, 4, 252], "spid": 887, "iid": 70}, {"species": "kingambit", "ability": "supremeoverlord", "item": "lumberry", "moves": ["kowtowcleave", "swordsdance", "ironhead", "suckerpunch"], "nature": "adamant", "evs": [252, 252, 0, 0, 4, 0], "spid": 983, "iid": 262}]}, {"team_name": "team", "members": [{"species": "corviknight", "ability": "mirrorarmor", "item": "rockyhelmet", "moves": ["uturn", "defog", "roost", "bodypress"], "nature": "impish", "evs": [248, 0, 252, 0, 8, 0], "spid": 823, "iid": 417}, {"species": "froslass", "ability": "cursedbody", "item": "focussash", "moves": ["destinybond", "spikes", "taunt", "shadowball"], "nature": "timid", "evs": [0, 0, 0, 252, 4, 252], "spid": 478, "iid": 151}, {"species": "ironvaliant", "ability": "quarkdrive", "item": "boosterenergy", "moves": ["shadowball", "closecombat", "calmmind", "moonblast"], "nature": "naive", "evs": [0, 4, 0, 252, 0, 252], "spid": 1006, "iid": 0}, {"species": "clodsire", "ability": "waterabsorb", "item": "heavydutyboots", "moves": ["spikes", "recover", "earthquake", "toxic"], "nature": "careful", "evs": [252, 4, 0, 0, 252, 0], "spid": 980, "iid": 715}, {"species": "greattusk", "ability": "protosynthesis", "item": "leftovers", "moves": ["rapidspin", "earthquake", "knockoff", "headlongrush"], "nature": "impish", "evs": [252, 0, 216, 0, 0, 40], "spid": 984, "iid": 242}, {"species": "gholdengo", "ability": "goodasgold", "item": "choicescarf", "moves": ["makeitrain", "thunderwave", "shadowball", "trick"], "nature": "modest", "evs": [248, 0, 152, 72, 0, 36], "spid": 1000, "iid": 69}]}, {"team_name": "team", "members": [{"species": "baxcalibur", "ability": "thermalexchange", "item": "heavydutyboots", "moves": ["earthquake", "iciclecrash", "iceshard", "dragondance"], "nature": "jolly", "evs": [0, 252, 0, 0, 4, 252], "spid": 998, "iid": 715}, {"species": "irontreads", "ability": "quarkdrive", "item": "leftovers", "moves": ["rapidspin", "stealthrock", "knockoff", "steelbeam"], "nature": "jolly", "evs": [248, 0, 0, 0, 156, 104], "spid": 990, "iid": 242}, {"species": "kingambit", "ability": "supremeoverlord", "item": "leftovers", "moves": ["suckerpunch", "ironhead", "kowtowcleave", "swordsdance"], "nature": "adamant", "evs": [112, 252, 0, 0, 0, 144], "spid": 983, "iid": 242}, {"species": "dragapult", "ability": "infiltrator", "item": "choicespecs", "moves": ["willowisp", "uturn", "hex", "dragondarts"], "nature": "timid", "evs": [0, 4, 0, 252, 0, 252], "spid": 887, "iid": 70}, {"species": "greattusk", "ability": "protosynthesis", "item": "leftovers", "moves": ["earthquake", "knockoff", "headlongrush", "stealthrock"], "nature": "impish", "evs": [252, 0, 252, 0, 4, 0], "spid": 984, "iid": 242}, {"species": "gholdengo", "ability": "goodasgold", "item": "choicescarf", "moves": ["makeitrain", "shadowball", "focusblast", "trick"], "nature": "modest", "evs": [200, 0, 0, 68, 4, 236], "spid": 1000, "iid": 69}]}, {"team_name": "team", "members": [{"species": "toedscruel", "ability": "myceliummight", "item": "leftovers", "moves": ["earthpower", "rapidspin", "spikes", "leafstorm"], "nature": "sassy", "evs": [252, 0, 0, 4, 252, 0], "spid": 949, "iid": 242}, {"species": "irontreads", "ability": "quarkdrive", "item": "assaultvest", "moves": ["voltswitch", "rapidspin", "earthquake", "knockoff"], "nature": "jolly", "evs": [0, 252, 0, 0, 4, 252], "spid": 990, "iid": 581}, {"species": "floatzel", "ability": "swiftswim", "item": "choiceband", "moves": ["icespinner", "wavecrash", "liquidation", "aquajet"], "nature": "adamant", "evs": [0, 252, 0, 0, 4, 252], "spid": 419, "iid": 68}, {"species": "pelipper", "ability": "drizzle", "item": "damprock", "moves": ["roost", "knockoff", "hurricane", "uturn"], "nature": "bold", "evs": [248, 0, 252, 0, 8, 0], "spid": 279, "iid": 88}, {"species": "kingambit", "ability": "supremeoverlord", "item": "leftovers", "moves": ["suckerpunch", "swordsdance", "lowkick", "kowtowcleave"], "nature": "adamant", "evs": [0, 252, 4, 0, 0, 252], "spid": 983, "iid": 242}, {"species": "dragapult", "ability": "infiltrator", "item": "choiceband", "moves": ["substitute", "dracometeor", "uturn", "flamethrower"], "nature": "timid", "evs": [0, 0, 0, 252, 4, 252], "spid": 887, "iid": 68}]}, {"team_name": "team", "members": [{"species": "amoonguss", "ability": "regenerator", "item": "ejectbutton", "moves": ["sludgebomb", "grassknot", "spore", "foulplay"], "nature": "bold", "evs": [252, 0, 252, 4, 0, 0], "spid": 591, "iid": 118}, {"species": "greninja", "ability": "protean", "item": "choicespecs", "moves": ["darkpulse", "toxicspikes", "hydropump", "uturn"], "nature": "lonely", "evs": [0, 252, 0, 4, 0, 252], "spid": 658, "iid": 70}, {"species": "greattusk", "ability": "protosynthesis", "item": "focussash", "moves": ["knockoff", "earthquake", "rapidspin", "bodypress"], "nature": "impish", "evs": [248, 0, 196, 0, 0, 64], "spid": 984, "iid": 151}, {"species": "dragapult", "ability": "infiltrator", "item": "heavydutyboots", "moves": ["shadowball", "dracometeor", "willowisp", "fireblast"], "nature": "timid", "evs": [0, 0, 0, 252, 4, 252], "spid": 887, "iid": 715}, {"species": "kingambit", "ability": "supremeoverlord", "item": "leftovers", "moves": ["kowtowcleave", "suckerpunch", "ironhead", "swordsdance"], "nature": "adamant", "evs": [100, 252, 0, 0, 4, 152], "spid": 983, "iid": 242}, {"species": "ironvaliant", "ability": "quarkdrive", "item": "boosterenergy", "moves": ["moonblast", "closecombat", "shadowball", "knockoff"], "nature": "jolly", "evs": [0, 252, 0, 0, 4, 252], "spid": 1006, "iid": 0}]}, {"team_name": "team", "members": [{"species": "corviknight", "ability": "pressure", "item": "rockyhelmet", "moves": ["defog", "bravebird", "bulkup", "uturn"], "nature": "calm", "evs": [252, 0, 4, 0, 252, 0], "spid": 823, "iid": 417}, {"species": "tinglu", "ability": "vesselofruin", "item": "leftovers", "moves": ["earthquake", "payback", "spikes", "ruination"], "nature": "careful", "evs": [248, 0, 4, 0, 252, 4], "spid": 1003, "iid": 242}, {"species": "gholdengo", "ability": "goodasgold", "item": "covertcloak", "moves": ["nastyplot", "recover", "focusblast", "shadowball"], "nature": "timid", "evs": [0, 0, 0, 252, 4, 252], "spid": 1000, "iid": 0}, {"species": "greattusk", "ability": "protosynthesis", "item": "leftovers", "moves": ["rapidspin", "knockoff", "stealthrock", "earthquake"], "nature": "impish", "evs": [252, 0, 248, 0, 0, 8], "spid": 984, "iid": 242}, {"species": "rotomwash", "ability": "levitate", "item": "covertcloak", "moves": ["hydropump", "voltswitch", "willowisp", "substitute"], "nature": "bold", "evs": [252, 0, 252, 0, 4, 0], "spid": 479, "iid": 0}, {"species": "dragapult", "ability": "infiltrator", "item": "leftovers", "moves": ["dracometeor", "thunderbolt", "dragondarts", "shadowball"], "nature": "timid", "evs": [0, 0, 0, 252, 4, 252], "spid": 887, "iid": 242}]}, {"team_name": "team", "members": [{"species": "kingambit", "ability": "supremeoverlord", "item": "leftovers", "moves": ["swordsdance", "suckerpunch", "ironhead", "kowtowcleave"], "nature": "adamant", "evs": [252, 68, 44, 0, 128, 16], "spid": 983, "iid": 242}, {"species": "baxcalibur", "ability": "thermalexchange", "item": "choiceband", "moves": ["iciclespear", "iceshard", "earthquake", "glaiverush"], "nature": "adamant", "evs": [0, 252, 0, 0, 4, 252], "spid": 998, "iid": 68}, {"species": "skeledirge", "ability": "unaware", "item": "heavydutyboots", "moves": ["slackoff", "substitute", "hex", "willowisp"], "nature": "modest", "evs": [240, 0, 32, 80, 96, 52], "spid": 911, "iid": 715}, {"species": "greattusk", "ability": "protosynthesis", "item": "boosterenergy", "moves": ["rapidspin", "knockoff", "bulkup", "earthquake"], "nature": "jolly", "evs": [0, 252, 0, 0, 4, 252], "spid": 984, "iid": 0}, {"species": "gholdengo", "ability": "goodasgold", "item": "choicespecs", "moves": ["shadowball", "recover", "makeitrain", "nastyplot"], "nature": "modest", "evs": [0, 0, 128, 252, 128, 0], "spid": 1000, "iid": 70}, {"species": "tinglu", "ability": "vesselofruin", "item": "leftovers", "moves": ["ruination", "spikes", "stealthrock", "earthquake"], "nature": "impish", "evs": [252, 64, 56, 0, 136, 0], "spid": 1003, "iid": 242}]}, {"team_name": "team", "members": [{"species": "greninja", "ability": "protean", "item": "choicespecs", "moves": ["darkpulse", "grassknot", "uturn", "toxicspikes"], "nature": "timid", "evs": [0, 0, 0, 252, 4, 252], "spid": 658, "iid": 70}, {"species": "rotomwash", "ability": "levitate", "item": "leftovers", "moves": ["substitute", "protect", "hydropump", "discharge"], "nature": "bold", "evs": [248, 0, 244, 0, 0, 16], "spid": 479, "iid": 242}, {"species": "greattusk", "ability": "protosynthesis", "item": "assaultvest", "moves": ["bodypress", "rapidspin", "closecombat", "knockoff"], "nature": "careful", "evs": [248, 0, 8, 0, 252, 0], "spid": 984, "iid": 581}, {"species": "kingambit", "ability": "supremeoverlord", "item": "leftovers", "moves": ["ironhead", "swordsdance", "kowtowcleave", "suckerpunch"], "nature": "adamant", "evs": [112, 252, 0, 0, 0, 144], "spid": 983, "iid": 242}, {"species": "gholdengo", "ability": "goodasgold", "item": "choicescarf", "moves": ["nastyplot", "shadowball", "makeitrain", "recover"], "nature": "timid", "evs": [0, 0, 0, 252, 4, 252], "spid": 1000, "iid": 69}, {"species": "volcarona", "ability": "flamebody", "item": "heavydutyboots", "moves": ["flamethrower", "morningsun", "gigadrain", "willowisp"], "nature": "timid", "evs": [80, 0, 252, 0, 0, 176], "spid": 637, "iid": 715}]}, {"team_name": "team", "members": [{"species": "grimmsnarl", "ability": "prankster", "item": "lightclay", "moves": ["thunderwave", "partingshot", "lightscreen", "reflect"], "nature": "careful", "evs": [252, 4, 0, 0, 252, 0], "spid": 861, "iid": 252}, {"species": "ironvaliant", "ability": "quarkdrive", "item": "boosterenergy", "moves": ["thunderbolt", "moonblast", "aurasphere", "spiritbreak"], "nature": "jolly", "evs": [0, 252, 0, 0, 4, 252], "spid": 1006, "iid": 0}, {"species": "rotomwash", "ability": "levitate", "item": "leftovers", "moves": ["voltswitch", "thunderbolt", "hydropump", "protect"], "nature": "calm", "evs": [248, 0, 52, 0, 196, 12], "spid": 479, "iid": 242}, {"species": "greattusk", "ability": "protosynthesis", "item": "choicescarf", "moves": ["rapidspin", "headlongrush", "knockoff", "stealthrock"], "nature": "jolly", "evs": [0, 252, 0, 0, 4, 252], "spid": 984, "iid": 69}, {"species": "baxcalibur", "ability": "thermalexchange", "item": "choiceband", "moves": ["glaiverush", "iceshard", "dragondance", "iciclecrash"], "nature": "adamant", "evs": [0, 252, 0, 0, 4, 252], "spid": 998, "iid": 68}, {"species": "gholdengo", "ability": "goodasgold", "item": "choicescarf", "moves": ["nastyplot", "makeitrain", "shadowball", "trick"], "nature": "modest", "evs": [248, 0, 108, 72, 0, 80], "spid": 1000, "iid": 69}]}, {"team_name": "team", "members": [{"species": "toedscruel", "ability": "myceliummight", "item": "leftovers", "moves": ["earthpower", "rapidspin", "spikes", "leafstorm"], "nature": "sassy", "evs": [252, 0, 0, 4, 252, 0], "spid": 949, "iid": 242}, {"species": "irontreads", "ability": "quarkdrive", "item": "assaultvest", "moves": ["voltswitch", "rapidspin", "earthquake", "knockoff"], "nature": "jolly", "evs": [0, 252, 0, 0, 4, 252], "spid": 990, "iid": 581}, {"species": "floatzel", "ability": "swiftswim", "item": "choiceband", "moves": ["icespinner", "wavecrash", "liquidation", "aquajet"], "nature": "adamant", "evs": [0, 252, 0, 0, 4, 252], "spid": 419, "iid": 68}, {"species": "pelipper", "ability": "drizzle", "item": "damprock", "moves": ["roost", "knockoff", "hurricane", "uturn"], "nature": "bold", "evs": [248, 0, 252, 0, 8, 0], "spid": 279, "iid": 88}, {"species": "kingambit", "ability": "supremeoverlord", "item": "leftovers", "moves": ["suckerpunch", "swordsdance", "lowkick", "kowtowcleave"], "nature": "adamant", "evs": [0, 252, 4, 0, 0, 252], "spid": 983, "iid": 242}, {"species": "dragapult", "ability": "infiltrator", "item": "choiceband", "moves": ["substitute", "dracometeor", "uturn", "flamethrower"], "nature": "timid", "evs": [0, 0, 0, 252, 4, 252], "spid": 887, "iid": 68}]}, {"team_name": "team", "members": [{"species": "slowking", "ability": "regenerator", "item": "heavydutyboots", "moves": ["chillingwater", "slackoff", "futuresight", "psyshock"], "nature": "sassy", "evs": [248, 0, 244, 0, 16, 0], "spid": 199, "iid": 715}, {"species": "baxcalibur", "ability": "thermalexchange", "item": "loadeddice", "moves": ["iciclecrash", "iciclespear", "iceshard", "earthquake"], "nature": "adamant", "evs": [0, 252, 0, 0, 4, 252], "spid": 998, "iid": 0}, {"species": "rotomwash", "ability": "levitate", "item": "leftovers", "moves": ["terablast", "voltswitch", "protect", "trick"], "nature": "timid", "evs": [0, 0, 0, 252, 4, 252], "spid": 479, "iid": 242}, {"species": "cinderace", "ability": "libero", "item": "heavydutyboots", "moves": ["uturn", "pyroball", "suckerpunch", "highjumpkick"], "nature": "jolly", "evs": [0, 252, 0, 0, 4, 252], "spid": 815, "iid": 715}, {"species": "greattusk", "ability": "protosynthesis", "item": "boosterenergy", "moves": ["earthquake", "knockoff", "stealthrock", "rapidspin"], "nature": "impish", "evs": [252, 0, 168, 0, 24, 64], "spid": 984, "iid": 0}, {"species": "gholdengo", "ability": "goodasgold", "item": "covertcloak", "moves": ["nastyplot", "makeitrain", "shadowball", "focusblast"], "nature": "timid", "evs": [0, 0, 0, 252, 4, 252], "spid": 1000, "iid": 0}]}, {"team_name": "team", "members": [{"species": "roaringmoon", "ability": "protosynthesis", "item": "leftovers", "moves": ["acrobatics", "uturn", "crunch", "dragondance"], "nature": "jolly", "evs": [0, 252, 0, 0, 4, 252], "spid": 1005, "iid": 242}, {"species": "ironvaliant", "ability": "quarkdrive", "item": "choicespecs", "moves": ["psyshock", "moonblast", "calmmind", "thunderbolt"], "nature": "jolly", "evs": [0, 252, 0, 0, 4, 252], "spid": 1006, "iid": 70}, {"species": "gholdengo", "ability": "goodasgold", "item": "choicescarf", "moves": ["substitute", "trick", "makeitrain", "shadowball"], "nature": "timid", "evs": [0, 0, 0, 252, 4, 252], "spid": 1000, "iid": 69}, {"species": "greattusk", "ability": "protosynthesis", "item": "leftovers", "moves": ["rapidspin", "knockoff", "stealthrock", "bulkup"], "nature": "impish", "evs": [0, 120, 252, 0, 136, 0], "spid": 984, "iid": 242}, {"species": "cinderace", "ability": "libero", "item": "heavydutyboots", "moves": ["willowisp", "uturn", "pyroball", "suckerpunch"], "nature": "adamant", "evs": [0, 252, 0, 0, 4, 252], "spid": 815, "iid": 715}, {"species": "kingambit", "ability": "supremeoverlord", "item": "blackglasses", "moves": ["ironhead", "swordsdance", "suckerpunch", "kowtowcleave"], "nature": "adamant", "evs": [96, 252, 0, 0, 0, 160], "spid": 983, "iid": 35}]}, {"team_name": "team", "members": [{"species": "garganacl", "ability": "purifyingsalt", "item": "leftovers", "moves": ["irondefense", "protect", "recover", "stealthrock"], "nature": "impish", "evs": [248, 0, 196, 0, 56, 8], "spid": 934, "iid": 242}, {"species": "tsareena", "ability": "leafguard", "item": "leftovers", "moves": ["tropkick", "swagger", "powerwhip", "rapidspin"], "nature": "adamant", "evs": [252, 252, 0, 0, 4, 0], "spid": 763, "iid": 242}, {"species": "kingambit", "ability": "supremeoverlord", "item": "leftovers", "moves": ["suckerpunch", "kowtowcleave", "ironhead", "rocktomb"], "nature": "adamant", "evs": [124, 252, 0, 0, 132, 0], "spid": 983, "iid": 242}, {"species": "greattusk", "ability": "protosynthesis", "item": "choicescarf", "moves": ["icespinner", "knockoff", "earthquake", "rapidspin"], "nature": "impish", "evs": [252, 0, 80, 0, 0, 176], "spid": 984, "iid": 69}, {"species": "rotomwash", "ability": "levitate", "item": "leftovers", "moves": ["hydropump", "discharge", "voltswitch", "protect"], "nature": "bold", "evs": [252, 0, 252, 0, 4, 0], "spid": 479, "iid": 242}, {"species": "dragapult", "ability": "infiltrator", "item": "heavydutyboots", "moves": ["hex", "thunderbolt", "willowisp", "dracometeor"], "nature": "modest", "evs": [0, 0, 4, 252, 0, 252], "spid": 887, "iid": 715}]}, {"team_name": "team", "members": [{"species": "baxcalibur", "ability": "thermalexchange", "item": "heavydutyboots", "moves": ["earthquake", "iciclecrash", "iceshard", "dragondance"], "nature": "jolly", "evs": [0, 252, 0, 0, 4, 252], "spid": 998, "iid": 715}, {"species": "irontreads", "ability": "quarkdrive", "item": "leftovers", "moves": ["rapidspin", "stealthrock", "knockoff", "steelbeam"], "nature": "jolly", "evs": [248, 0, 0, 0, 156, 104], "spid": 990, "iid": 242}, {"species": "kingambit", "ability": "supremeoverlord", "item": "leftovers", "moves": ["suckerpunch", "ironhead", "kowtowcleave", "swordsdance"], "nature": "adamant", "evs": [112, 252, 0, 0, 0, 144], "spid": 983, "iid": 242}, {"species": "dragapult", "ability": "infiltrator", "item": "choicespecs", "moves": ["willowisp", "uturn", "hex", "dragondarts"], "nature": "timid", "evs": [0, 4, 0, 252, 0, 252], "spid": 887, "iid": 70}, {"species": "greattusk", "ability": "protosynthesis", "item": "leftovers", "moves": ["earthquake", "knockoff", "headlongrush", "stealthrock"], "nature": "impish", "evs": [252, 0, 252, 0, 4, 0], "spid": 984, "iid": 242}, {"species": "gholdengo", "ability": "goodasgold", "item": "choicescarf", "moves": ["makeitrain", "shadowball", "focusblast", "trick"], "nature": "modest", "evs": [200, 0, 0, 68, 4, 236], "spid": 1000, "iid": 69}]}]
+[
+    {
+        "team_name": "team",
+        "members": [
+            {
+                "species": "polteageist",
+                "ability": "weakarmor",
+                "item": "focussash",
+                "moves": [
+                    "shellsmash",
+                    "shadowball",
+                    "terablast",
+                    "storedpower"
+                ],
+                "nature": "timid",
+                "evs": [
+                    0,
+                    0,
+                    0,
+                    252,
+                    4,
+                    252
+                ],
+                "spid": 855,
+                "iid": 151
+            },
+            {
+                "species": "armarouge",
+                "ability": "weakarmor",
+                "item": "focussash",
+                "moves": [
+                    "expandingforce",
+                    "destinybond",
+                    "calmmind",
+                    "endure"
+                ],
+                "nature": "timid",
+                "evs": [
+                    0,
+                    0,
+                    4,
+                    252,
+                    0,
+                    252
+                ],
+                "spid": 936,
+                "iid": 151
+            },
+            {
+                "species": "hatterene",
+                "ability": "magicbounce",
+                "item": "ejectbutton",
+                "moves": [
+                    "dazzlinggleam",
+                    "healingwish",
+                    "psychic",
+                    "drainingkiss"
+                ],
+                "nature": "bold",
+                "evs": [
+                    252,
+                    0,
+                    204,
+                    0,
+                    0,
+                    52
+                ],
+                "spid": 858,
+                "iid": 118
+            },
+            {
+                "species": "indeedee",
+                "ability": "psychicsurge",
+                "item": "terrainextender",
+                "moves": [
+                    "encore",
+                    "psychic",
+                    "dazzlinggleam",
+                    "psyshock"
+                ],
+                "nature": "timid",
+                "evs": [
+                    0,
+                    0,
+                    0,
+                    252,
+                    4,
+                    252
+                ],
+                "spid": 876,
+                "iid": 662
+            },
+            {
+                "species": "greattusk",
+                "ability": "protosynthesis",
+                "item": "leftovers",
+                "moves": [
+                    "stealthrock",
+                    "knockoff",
+                    "rapidspin",
+                    "earthquake"
+                ],
+                "nature": "adamant",
+                "evs": [
+                    252,
+                    12,
+                    80,
+                    0,
+                    112,
+                    52
+                ],
+                "spid": 984,
+                "iid": 242
+            },
+            {
+                "species": "volcarona",
+                "ability": "flamebody",
+                "item": "heavydutyboots",
+                "moves": [
+                    "flamethrower",
+                    "morningsun",
+                    "bugbuzz",
+                    "psychic"
+                ],
+                "nature": "modest",
+                "evs": [
+                    0,
+                    0,
+                    0,
+                    252,
+                    4,
+                    252
+                ],
+                "spid": 637,
+                "iid": 715
+            }
+        ]
+    },
+    {
+        "team_name": "team",
+        "members": [
+            {
+                "species": "espeon",
+                "ability": "magicbounce",
+                "item": "lightclay",
+                "moves": [
+                    "lightscreen",
+                    "trickroom",
+                    "wish",
+                    "shadowball"
+                ],
+                "nature": "quiet",
+                "evs": [
+                    252,
+                    0,
+                    0,
+                    252,
+                    4,
+                    0
+                ],
+                "spid": 196,
+                "iid": 252
+            },
+            {
+                "species": "meowscarada",
+                "ability": "overgrow",
+                "item": "choicescarf",
+                "moves": [
+                    "knockoff",
+                    "spikes",
+                    "taunt",
+                    "flowertrick"
+                ],
+                "nature": "jolly",
+                "evs": [
+                    0,
+                    252,
+                    0,
+                    0,
+                    4,
+                    252
+                ],
+                "spid": 908,
+                "iid": 69
+            },
+            {
+                "species": "greattusk",
+                "ability": "protosynthesis",
+                "item": "leftovers",
+                "moves": [
+                    "closecombat",
+                    "rapidspin",
+                    "earthquake",
+                    "knockoff"
+                ],
+                "nature": "jolly",
+                "evs": [
+                    0,
+                    252,
+                    0,
+                    0,
+                    4,
+                    252
+                ],
+                "spid": 984,
+                "iid": 242
+            },
+            {
+                "species": "hatterene",
+                "ability": "magicbounce",
+                "item": "leftovers",
+                "moves": [
+                    "psyshock",
+                    "calmmind",
+                    "drainingkiss",
+                    "healingwish"
+                ],
+                "nature": "modest",
+                "evs": [
+                    252,
+                    0,
+                    132,
+                    52,
+                    0,
+                    72
+                ],
+                "spid": 858,
+                "iid": 242
+            },
+            {
+                "species": "gholdengo",
+                "ability": "goodasgold",
+                "item": "choicescarf",
+                "moves": [
+                    "recover",
+                    "shadowball",
+                    "makeitrain",
+                    "trick"
+                ],
+                "nature": "timid",
+                "evs": [
+                    0,
+                    0,
+                    0,
+                    252,
+                    4,
+                    252
+                ],
+                "spid": 1000,
+                "iid": 69
+            },
+            {
+                "species": "volcarona",
+                "ability": "flamebody",
+                "item": "lifeorb",
+                "moves": [
+                    "willowisp",
+                    "quiverdance",
+                    "bugbuzz",
+                    "fierydance"
+                ],
+                "nature": "modest",
+                "evs": [
+                    252,
+                    0,
+                    0,
+                    112,
+                    0,
+                    144
+                ],
+                "spid": 637,
+                "iid": 249
+            }
+        ]
+    },
+    {
+        "team_name": "team",
+        "members": [
+            {
+                "species": "dragonite",
+                "ability": "multiscale",
+                "item": "heavydutyboots",
+                "moves": [
+                    "dragondance",
+                    "earthquake",
+                    "roost",
+                    "extremespeed"
+                ],
+                "nature": "adamant",
+                "evs": [
+                    124,
+                    252,
+                    0,
+                    0,
+                    0,
+                    132
+                ],
+                "spid": 149,
+                "iid": 715
+            },
+            {
+                "species": "orthworm",
+                "ability": "eartheater",
+                "item": "sitrusberry",
+                "moves": [
+                    "ironhead",
+                    "shedtail",
+                    "metalburst",
+                    "stealthrock"
+                ],
+                "nature": "impish",
+                "evs": [
+                    252,
+                    0,
+                    252,
+                    0,
+                    0,
+                    4
+                ],
+                "spid": 968,
+                "iid": 448
+            },
+            {
+                "species": "greattusk",
+                "ability": "protosynthesis",
+                "item": "heavydutyboots",
+                "moves": [
+                    "closecombat",
+                    "stoneedge",
+                    "rapidspin",
+                    "earthquake"
+                ],
+                "nature": "impish",
+                "evs": [
+                    248,
+                    8,
+                    192,
+                    0,
+                    0,
+                    60
+                ],
+                "spid": 984,
+                "iid": 715
+            },
+            {
+                "species": "gholdengo",
+                "ability": "goodasgold",
+                "item": "metalcoat",
+                "moves": [
+                    "nastyplot",
+                    "thunderwave",
+                    "makeitrain",
+                    "focusblast"
+                ],
+                "nature": "calm",
+                "evs": [
+                    248,
+                    0,
+                    0,
+                    0,
+                    188,
+                    72
+                ],
+                "spid": 1000,
+                "iid": 286
+            },
+            {
+                "species": "volcarona",
+                "ability": "swarm",
+                "item": "leftovers",
+                "moves": [
+                    "morningsun",
+                    "flamethrower",
+                    "quiverdance",
+                    "gigadrain"
+                ],
+                "nature": "bold",
+                "evs": [
+                    248,
+                    0,
+                    204,
+                    0,
+                    0,
+                    56
+                ],
+                "spid": 637,
+                "iid": 242
+            },
+            {
+                "species": "kingambit",
+                "ability": "supremeoverlord",
+                "item": "lumberry",
+                "moves": [
+                    "kowtowcleave",
+                    "swordsdance",
+                    "suckerpunch",
+                    "ironhead"
+                ],
+                "nature": "adamant",
+                "evs": [
+                    96,
+                    252,
+                    0,
+                    0,
+                    0,
+                    160
+                ],
+                "spid": 983,
+                "iid": 262
+            }
+        ]
+    },
+    {
+        "team_name": "team",
+        "members": [
+            {
+                "species": "dragonite",
+                "ability": "multiscale",
+                "item": "heavydutyboots",
+                "moves": [
+                    "dragondance",
+                    "earthquake",
+                    "roost",
+                    "extremespeed"
+                ],
+                "nature": "adamant",
+                "evs": [
+                    124,
+                    252,
+                    0,
+                    0,
+                    0,
+                    132
+                ],
+                "spid": 149,
+                "iid": 715
+            },
+            {
+                "species": "orthworm",
+                "ability": "eartheater",
+                "item": "sitrusberry",
+                "moves": [
+                    "ironhead",
+                    "shedtail",
+                    "metalburst",
+                    "stealthrock"
+                ],
+                "nature": "impish",
+                "evs": [
+                    252,
+                    0,
+                    252,
+                    0,
+                    0,
+                    4
+                ],
+                "spid": 968,
+                "iid": 448
+            },
+            {
+                "species": "greattusk",
+                "ability": "protosynthesis",
+                "item": "heavydutyboots",
+                "moves": [
+                    "closecombat",
+                    "stoneedge",
+                    "rapidspin",
+                    "earthquake"
+                ],
+                "nature": "impish",
+                "evs": [
+                    248,
+                    8,
+                    192,
+                    0,
+                    0,
+                    60
+                ],
+                "spid": 984,
+                "iid": 715
+            },
+            {
+                "species": "gholdengo",
+                "ability": "goodasgold",
+                "item": "metalcoat",
+                "moves": [
+                    "nastyplot",
+                    "thunderwave",
+                    "makeitrain",
+                    "focusblast"
+                ],
+                "nature": "calm",
+                "evs": [
+                    248,
+                    0,
+                    0,
+                    0,
+                    188,
+                    72
+                ],
+                "spid": 1000,
+                "iid": 286
+            },
+            {
+                "species": "volcarona",
+                "ability": "swarm",
+                "item": "leftovers",
+                "moves": [
+                    "morningsun",
+                    "flamethrower",
+                    "quiverdance",
+                    "gigadrain"
+                ],
+                "nature": "bold",
+                "evs": [
+                    248,
+                    0,
+                    204,
+                    0,
+                    0,
+                    56
+                ],
+                "spid": 637,
+                "iid": 242
+            },
+            {
+                "species": "kingambit",
+                "ability": "supremeoverlord",
+                "item": "lumberry",
+                "moves": [
+                    "kowtowcleave",
+                    "swordsdance",
+                    "suckerpunch",
+                    "ironhead"
+                ],
+                "nature": "adamant",
+                "evs": [
+                    96,
+                    252,
+                    0,
+                    0,
+                    0,
+                    160
+                ],
+                "spid": 983,
+                "iid": 262
+            }
+        ]
+    },
+    {
+        "team_name": "team",
+        "members": [
+            {
+                "species": "volcarona",
+                "ability": "flamebody",
+                "item": "heavydutyboots",
+                "moves": [
+                    "quiverdance",
+                    "gigadrain",
+                    "fierydance",
+                    "morningsun"
+                ],
+                "nature": "bold",
+                "evs": [
+                    248,
+                    0,
+                    212,
+                    0,
+                    0,
+                    48
+                ],
+                "spid": 637,
+                "iid": 715
+            },
+            {
+                "species": "lokix",
+                "ability": "tintedlens",
+                "item": "choiceband",
+                "moves": [
+                    "throatchop",
+                    "brickbreak",
+                    "uturn",
+                    "firstimpression"
+                ],
+                "nature": "jolly",
+                "evs": [
+                    4,
+                    252,
+                    0,
+                    0,
+                    0,
+                    252
+                ],
+                "spid": 920,
+                "iid": 68
+            },
+            {
+                "species": "gholdengo",
+                "ability": "goodasgold",
+                "item": "choicescarf",
+                "moves": [
+                    "makeitrain",
+                    "shadowball",
+                    "nastyplot",
+                    "focusblast"
+                ],
+                "nature": "timid",
+                "evs": [
+                    0,
+                    0,
+                    0,
+                    252,
+                    4,
+                    252
+                ],
+                "spid": 1000,
+                "iid": 69
+            },
+            {
+                "species": "greattusk",
+                "ability": "protosynthesis",
+                "item": "leftovers",
+                "moves": [
+                    "closecombat",
+                    "earthquake",
+                    "bulkup",
+                    "rapidspin"
+                ],
+                "nature": "impish",
+                "evs": [
+                    252,
+                    4,
+                    252,
+                    0,
+                    0,
+                    0
+                ],
+                "spid": 984,
+                "iid": 242
+            },
+            {
+                "species": "dragapult",
+                "ability": "infiltrator",
+                "item": "choicespecs",
+                "moves": [
+                    "uturn",
+                    "dragondarts",
+                    "fireblast",
+                    "shadowball"
+                ],
+                "nature": "modest",
+                "evs": [
+                    0,
+                    0,
+                    0,
+                    252,
+                    4,
+                    252
+                ],
+                "spid": 887,
+                "iid": 70
+            },
+            {
+                "species": "kingambit",
+                "ability": "supremeoverlord",
+                "item": "lumberry",
+                "moves": [
+                    "kowtowcleave",
+                    "swordsdance",
+                    "ironhead",
+                    "suckerpunch"
+                ],
+                "nature": "adamant",
+                "evs": [
+                    252,
+                    252,
+                    0,
+                    0,
+                    4,
+                    0
+                ],
+                "spid": 983,
+                "iid": 262
+            }
+        ]
+    },
+    {
+        "team_name": "team",
+        "members": [
+            {
+                "species": "corviknight",
+                "ability": "mirrorarmor",
+                "item": "rockyhelmet",
+                "moves": [
+                    "uturn",
+                    "defog",
+                    "roost",
+                    "bodypress"
+                ],
+                "nature": "impish",
+                "evs": [
+                    248,
+                    0,
+                    252,
+                    0,
+                    8,
+                    0
+                ],
+                "spid": 823,
+                "iid": 417
+            },
+            {
+                "species": "froslass",
+                "ability": "cursedbody",
+                "item": "focussash",
+                "moves": [
+                    "destinybond",
+                    "spikes",
+                    "taunt",
+                    "shadowball"
+                ],
+                "nature": "timid",
+                "evs": [
+                    0,
+                    0,
+                    0,
+                    252,
+                    4,
+                    252
+                ],
+                "spid": 478,
+                "iid": 151
+            },
+            {
+                "species": "ironvaliant",
+                "ability": "quarkdrive",
+                "item": "boosterenergy",
+                "moves": [
+                    "shadowball",
+                    "closecombat",
+                    "calmmind",
+                    "moonblast"
+                ],
+                "nature": "naive",
+                "evs": [
+                    0,
+                    4,
+                    0,
+                    252,
+                    0,
+                    252
+                ],
+                "spid": 1006,
+                "iid": 0
+            },
+            {
+                "species": "clodsire",
+                "ability": "waterabsorb",
+                "item": "heavydutyboots",
+                "moves": [
+                    "spikes",
+                    "recover",
+                    "earthquake",
+                    "toxic"
+                ],
+                "nature": "careful",
+                "evs": [
+                    252,
+                    4,
+                    0,
+                    0,
+                    252,
+                    0
+                ],
+                "spid": 980,
+                "iid": 715
+            },
+            {
+                "species": "greattusk",
+                "ability": "protosynthesis",
+                "item": "leftovers",
+                "moves": [
+                    "rapidspin",
+                    "earthquake",
+                    "knockoff",
+                    "headlongrush"
+                ],
+                "nature": "impish",
+                "evs": [
+                    252,
+                    0,
+                    216,
+                    0,
+                    0,
+                    40
+                ],
+                "spid": 984,
+                "iid": 242
+            },
+            {
+                "species": "gholdengo",
+                "ability": "goodasgold",
+                "item": "choicescarf",
+                "moves": [
+                    "makeitrain",
+                    "thunderwave",
+                    "shadowball",
+                    "trick"
+                ],
+                "nature": "modest",
+                "evs": [
+                    248,
+                    0,
+                    152,
+                    72,
+                    0,
+                    36
+                ],
+                "spid": 1000,
+                "iid": 69
+            }
+        ]
+    },
+    {
+        "team_name": "team",
+        "members": [
+            {
+                "species": "baxcalibur",
+                "ability": "thermalexchange",
+                "item": "heavydutyboots",
+                "moves": [
+                    "earthquake",
+                    "iciclecrash",
+                    "iceshard",
+                    "dragondance"
+                ],
+                "nature": "jolly",
+                "evs": [
+                    0,
+                    252,
+                    0,
+                    0,
+                    4,
+                    252
+                ],
+                "spid": 998,
+                "iid": 715
+            },
+            {
+                "species": "irontreads",
+                "ability": "quarkdrive",
+                "item": "leftovers",
+                "moves": [
+                    "rapidspin",
+                    "stealthrock",
+                    "knockoff",
+                    "steelbeam"
+                ],
+                "nature": "jolly",
+                "evs": [
+                    248,
+                    0,
+                    0,
+                    0,
+                    156,
+                    104
+                ],
+                "spid": 990,
+                "iid": 242
+            },
+            {
+                "species": "kingambit",
+                "ability": "supremeoverlord",
+                "item": "leftovers",
+                "moves": [
+                    "suckerpunch",
+                    "ironhead",
+                    "kowtowcleave",
+                    "swordsdance"
+                ],
+                "nature": "adamant",
+                "evs": [
+                    112,
+                    252,
+                    0,
+                    0,
+                    0,
+                    144
+                ],
+                "spid": 983,
+                "iid": 242
+            },
+            {
+                "species": "dragapult",
+                "ability": "infiltrator",
+                "item": "choicespecs",
+                "moves": [
+                    "willowisp",
+                    "uturn",
+                    "hex",
+                    "dragondarts"
+                ],
+                "nature": "timid",
+                "evs": [
+                    0,
+                    4,
+                    0,
+                    252,
+                    0,
+                    252
+                ],
+                "spid": 887,
+                "iid": 70
+            },
+            {
+                "species": "greattusk",
+                "ability": "protosynthesis",
+                "item": "leftovers",
+                "moves": [
+                    "earthquake",
+                    "knockoff",
+                    "headlongrush",
+                    "stealthrock"
+                ],
+                "nature": "impish",
+                "evs": [
+                    252,
+                    0,
+                    252,
+                    0,
+                    4,
+                    0
+                ],
+                "spid": 984,
+                "iid": 242
+            },
+            {
+                "species": "gholdengo",
+                "ability": "goodasgold",
+                "item": "choicescarf",
+                "moves": [
+                    "makeitrain",
+                    "shadowball",
+                    "focusblast",
+                    "trick"
+                ],
+                "nature": "modest",
+                "evs": [
+                    200,
+                    0,
+                    0,
+                    68,
+                    4,
+                    236
+                ],
+                "spid": 1000,
+                "iid": 69
+            }
+        ]
+    },
+    {
+        "team_name": "team",
+        "members": [
+            {
+                "species": "toedscruel",
+                "ability": "myceliummight",
+                "item": "leftovers",
+                "moves": [
+                    "earthpower",
+                    "rapidspin",
+                    "spikes",
+                    "leafstorm"
+                ],
+                "nature": "sassy",
+                "evs": [
+                    252,
+                    0,
+                    0,
+                    4,
+                    252,
+                    0
+                ],
+                "spid": 949,
+                "iid": 242
+            },
+            {
+                "species": "irontreads",
+                "ability": "quarkdrive",
+                "item": "assaultvest",
+                "moves": [
+                    "voltswitch",
+                    "rapidspin",
+                    "earthquake",
+                    "knockoff"
+                ],
+                "nature": "jolly",
+                "evs": [
+                    0,
+                    252,
+                    0,
+                    0,
+                    4,
+                    252
+                ],
+                "spid": 990,
+                "iid": 581
+            },
+            {
+                "species": "floatzel",
+                "ability": "swiftswim",
+                "item": "choiceband",
+                "moves": [
+                    "icespinner",
+                    "wavecrash",
+                    "liquidation",
+                    "aquajet"
+                ],
+                "nature": "adamant",
+                "evs": [
+                    0,
+                    252,
+                    0,
+                    0,
+                    4,
+                    252
+                ],
+                "spid": 419,
+                "iid": 68
+            },
+            {
+                "species": "pelipper",
+                "ability": "drizzle",
+                "item": "damprock",
+                "moves": [
+                    "roost",
+                    "knockoff",
+                    "hurricane",
+                    "uturn"
+                ],
+                "nature": "bold",
+                "evs": [
+                    248,
+                    0,
+                    252,
+                    0,
+                    8,
+                    0
+                ],
+                "spid": 279,
+                "iid": 88
+            },
+            {
+                "species": "kingambit",
+                "ability": "supremeoverlord",
+                "item": "leftovers",
+                "moves": [
+                    "suckerpunch",
+                    "swordsdance",
+                    "lowkick",
+                    "kowtowcleave"
+                ],
+                "nature": "adamant",
+                "evs": [
+                    0,
+                    252,
+                    4,
+                    0,
+                    0,
+                    252
+                ],
+                "spid": 983,
+                "iid": 242
+            },
+            {
+                "species": "dragapult",
+                "ability": "infiltrator",
+                "item": "choiceband",
+                "moves": [
+                    "substitute",
+                    "dracometeor",
+                    "uturn",
+                    "flamethrower"
+                ],
+                "nature": "timid",
+                "evs": [
+                    0,
+                    0,
+                    0,
+                    252,
+                    4,
+                    252
+                ],
+                "spid": 887,
+                "iid": 68
+            }
+        ]
+    },
+    {
+        "team_name": "team",
+        "members": [
+            {
+                "species": "amoonguss",
+                "ability": "regenerator",
+                "item": "ejectbutton",
+                "moves": [
+                    "sludgebomb",
+                    "grassknot",
+                    "spore",
+                    "foulplay"
+                ],
+                "nature": "bold",
+                "evs": [
+                    252,
+                    0,
+                    252,
+                    4,
+                    0,
+                    0
+                ],
+                "spid": 591,
+                "iid": 118
+            },
+            {
+                "species": "greninja",
+                "ability": "protean",
+                "item": "choicespecs",
+                "moves": [
+                    "darkpulse",
+                    "toxicspikes",
+                    "hydropump",
+                    "uturn"
+                ],
+                "nature": "lonely",
+                "evs": [
+                    0,
+                    252,
+                    0,
+                    4,
+                    0,
+                    252
+                ],
+                "spid": 658,
+                "iid": 70
+            },
+            {
+                "species": "greattusk",
+                "ability": "protosynthesis",
+                "item": "focussash",
+                "moves": [
+                    "knockoff",
+                    "earthquake",
+                    "rapidspin",
+                    "bodypress"
+                ],
+                "nature": "impish",
+                "evs": [
+                    248,
+                    0,
+                    196,
+                    0,
+                    0,
+                    64
+                ],
+                "spid": 984,
+                "iid": 151
+            },
+            {
+                "species": "dragapult",
+                "ability": "infiltrator",
+                "item": "heavydutyboots",
+                "moves": [
+                    "shadowball",
+                    "dracometeor",
+                    "willowisp",
+                    "fireblast"
+                ],
+                "nature": "timid",
+                "evs": [
+                    0,
+                    0,
+                    0,
+                    252,
+                    4,
+                    252
+                ],
+                "spid": 887,
+                "iid": 715
+            },
+            {
+                "species": "kingambit",
+                "ability": "supremeoverlord",
+                "item": "leftovers",
+                "moves": [
+                    "kowtowcleave",
+                    "suckerpunch",
+                    "ironhead",
+                    "swordsdance"
+                ],
+                "nature": "adamant",
+                "evs": [
+                    100,
+                    252,
+                    0,
+                    0,
+                    4,
+                    152
+                ],
+                "spid": 983,
+                "iid": 242
+            },
+            {
+                "species": "ironvaliant",
+                "ability": "quarkdrive",
+                "item": "boosterenergy",
+                "moves": [
+                    "moonblast",
+                    "closecombat",
+                    "shadowball",
+                    "knockoff"
+                ],
+                "nature": "jolly",
+                "evs": [
+                    0,
+                    252,
+                    0,
+                    0,
+                    4,
+                    252
+                ],
+                "spid": 1006,
+                "iid": 0
+            }
+        ]
+    },
+    {
+        "team_name": "team",
+        "members": [
+            {
+                "species": "corviknight",
+                "ability": "pressure",
+                "item": "rockyhelmet",
+                "moves": [
+                    "defog",
+                    "bravebird",
+                    "bulkup",
+                    "uturn"
+                ],
+                "nature": "calm",
+                "evs": [
+                    252,
+                    0,
+                    4,
+                    0,
+                    252,
+                    0
+                ],
+                "spid": 823,
+                "iid": 417
+            },
+            {
+                "species": "tinglu",
+                "ability": "vesselofruin",
+                "item": "leftovers",
+                "moves": [
+                    "earthquake",
+                    "payback",
+                    "spikes",
+                    "ruination"
+                ],
+                "nature": "careful",
+                "evs": [
+                    248,
+                    0,
+                    4,
+                    0,
+                    252,
+                    4
+                ],
+                "spid": 1003,
+                "iid": 242
+            },
+            {
+                "species": "gholdengo",
+                "ability": "goodasgold",
+                "item": "covertcloak",
+                "moves": [
+                    "nastyplot",
+                    "recover",
+                    "focusblast",
+                    "shadowball"
+                ],
+                "nature": "timid",
+                "evs": [
+                    0,
+                    0,
+                    0,
+                    252,
+                    4,
+                    252
+                ],
+                "spid": 1000,
+                "iid": 0
+            },
+            {
+                "species": "greattusk",
+                "ability": "protosynthesis",
+                "item": "leftovers",
+                "moves": [
+                    "rapidspin",
+                    "knockoff",
+                    "stealthrock",
+                    "earthquake"
+                ],
+                "nature": "impish",
+                "evs": [
+                    252,
+                    0,
+                    248,
+                    0,
+                    0,
+                    8
+                ],
+                "spid": 984,
+                "iid": 242
+            },
+            {
+                "species": "rotomwash",
+                "ability": "levitate",
+                "item": "covertcloak",
+                "moves": [
+                    "hydropump",
+                    "voltswitch",
+                    "willowisp",
+                    "substitute"
+                ],
+                "nature": "bold",
+                "evs": [
+                    252,
+                    0,
+                    252,
+                    0,
+                    4,
+                    0
+                ],
+                "spid": 479,
+                "iid": 0
+            },
+            {
+                "species": "dragapult",
+                "ability": "infiltrator",
+                "item": "leftovers",
+                "moves": [
+                    "dracometeor",
+                    "thunderbolt",
+                    "dragondarts",
+                    "shadowball"
+                ],
+                "nature": "timid",
+                "evs": [
+                    0,
+                    0,
+                    0,
+                    252,
+                    4,
+                    252
+                ],
+                "spid": 887,
+                "iid": 242
+            }
+        ]
+    },
+    {
+        "team_name": "team",
+        "members": [
+            {
+                "species": "kingambit",
+                "ability": "supremeoverlord",
+                "item": "leftovers",
+                "moves": [
+                    "swordsdance",
+                    "suckerpunch",
+                    "ironhead",
+                    "kowtowcleave"
+                ],
+                "nature": "adamant",
+                "evs": [
+                    252,
+                    68,
+                    44,
+                    0,
+                    128,
+                    16
+                ],
+                "spid": 983,
+                "iid": 242
+            },
+            {
+                "species": "baxcalibur",
+                "ability": "thermalexchange",
+                "item": "choiceband",
+                "moves": [
+                    "iciclespear",
+                    "iceshard",
+                    "earthquake",
+                    "glaiverush"
+                ],
+                "nature": "adamant",
+                "evs": [
+                    0,
+                    252,
+                    0,
+                    0,
+                    4,
+                    252
+                ],
+                "spid": 998,
+                "iid": 68
+            },
+            {
+                "species": "skeledirge",
+                "ability": "unaware",
+                "item": "heavydutyboots",
+                "moves": [
+                    "slackoff",
+                    "substitute",
+                    "hex",
+                    "willowisp"
+                ],
+                "nature": "modest",
+                "evs": [
+                    240,
+                    0,
+                    32,
+                    80,
+                    96,
+                    52
+                ],
+                "spid": 911,
+                "iid": 715
+            },
+            {
+                "species": "greattusk",
+                "ability": "protosynthesis",
+                "item": "boosterenergy",
+                "moves": [
+                    "rapidspin",
+                    "knockoff",
+                    "bulkup",
+                    "earthquake"
+                ],
+                "nature": "jolly",
+                "evs": [
+                    0,
+                    252,
+                    0,
+                    0,
+                    4,
+                    252
+                ],
+                "spid": 984,
+                "iid": 0
+            },
+            {
+                "species": "gholdengo",
+                "ability": "goodasgold",
+                "item": "choicespecs",
+                "moves": [
+                    "shadowball",
+                    "recover",
+                    "makeitrain",
+                    "nastyplot"
+                ],
+                "nature": "modest",
+                "evs": [
+                    0,
+                    0,
+                    128,
+                    252,
+                    128,
+                    0
+                ],
+                "spid": 1000,
+                "iid": 70
+            },
+            {
+                "species": "tinglu",
+                "ability": "vesselofruin",
+                "item": "leftovers",
+                "moves": [
+                    "ruination",
+                    "spikes",
+                    "stealthrock",
+                    "earthquake"
+                ],
+                "nature": "impish",
+                "evs": [
+                    252,
+                    64,
+                    56,
+                    0,
+                    136,
+                    0
+                ],
+                "spid": 1003,
+                "iid": 242
+            }
+        ]
+    },
+    {
+        "team_name": "team",
+        "members": [
+            {
+                "species": "greninja",
+                "ability": "protean",
+                "item": "choicespecs",
+                "moves": [
+                    "darkpulse",
+                    "grassknot",
+                    "uturn",
+                    "toxicspikes"
+                ],
+                "nature": "timid",
+                "evs": [
+                    0,
+                    0,
+                    0,
+                    252,
+                    4,
+                    252
+                ],
+                "spid": 658,
+                "iid": 70
+            },
+            {
+                "species": "rotomwash",
+                "ability": "levitate",
+                "item": "leftovers",
+                "moves": [
+                    "substitute",
+                    "protect",
+                    "hydropump",
+                    "discharge"
+                ],
+                "nature": "bold",
+                "evs": [
+                    248,
+                    0,
+                    244,
+                    0,
+                    0,
+                    16
+                ],
+                "spid": 479,
+                "iid": 242
+            },
+            {
+                "species": "greattusk",
+                "ability": "protosynthesis",
+                "item": "assaultvest",
+                "moves": [
+                    "bodypress",
+                    "rapidspin",
+                    "closecombat",
+                    "knockoff"
+                ],
+                "nature": "careful",
+                "evs": [
+                    248,
+                    0,
+                    8,
+                    0,
+                    252,
+                    0
+                ],
+                "spid": 984,
+                "iid": 581
+            },
+            {
+                "species": "kingambit",
+                "ability": "supremeoverlord",
+                "item": "leftovers",
+                "moves": [
+                    "ironhead",
+                    "swordsdance",
+                    "kowtowcleave",
+                    "suckerpunch"
+                ],
+                "nature": "adamant",
+                "evs": [
+                    112,
+                    252,
+                    0,
+                    0,
+                    0,
+                    144
+                ],
+                "spid": 983,
+                "iid": 242
+            },
+            {
+                "species": "gholdengo",
+                "ability": "goodasgold",
+                "item": "choicescarf",
+                "moves": [
+                    "nastyplot",
+                    "shadowball",
+                    "makeitrain",
+                    "recover"
+                ],
+                "nature": "timid",
+                "evs": [
+                    0,
+                    0,
+                    0,
+                    252,
+                    4,
+                    252
+                ],
+                "spid": 1000,
+                "iid": 69
+            },
+            {
+                "species": "volcarona",
+                "ability": "flamebody",
+                "item": "heavydutyboots",
+                "moves": [
+                    "flamethrower",
+                    "morningsun",
+                    "gigadrain",
+                    "willowisp"
+                ],
+                "nature": "timid",
+                "evs": [
+                    80,
+                    0,
+                    252,
+                    0,
+                    0,
+                    176
+                ],
+                "spid": 637,
+                "iid": 715
+            }
+        ]
+    },
+    {
+        "team_name": "team",
+        "members": [
+            {
+                "species": "grimmsnarl",
+                "ability": "prankster",
+                "item": "lightclay",
+                "moves": [
+                    "thunderwave",
+                    "partingshot",
+                    "lightscreen",
+                    "reflect"
+                ],
+                "nature": "careful",
+                "evs": [
+                    252,
+                    4,
+                    0,
+                    0,
+                    252,
+                    0
+                ],
+                "spid": 861,
+                "iid": 252
+            },
+            {
+                "species": "ironvaliant",
+                "ability": "quarkdrive",
+                "item": "boosterenergy",
+                "moves": [
+                    "thunderbolt",
+                    "moonblast",
+                    "aurasphere",
+                    "spiritbreak"
+                ],
+                "nature": "jolly",
+                "evs": [
+                    0,
+                    252,
+                    0,
+                    0,
+                    4,
+                    252
+                ],
+                "spid": 1006,
+                "iid": 0
+            },
+            {
+                "species": "rotomwash",
+                "ability": "levitate",
+                "item": "leftovers",
+                "moves": [
+                    "voltswitch",
+                    "thunderbolt",
+                    "hydropump",
+                    "protect"
+                ],
+                "nature": "calm",
+                "evs": [
+                    248,
+                    0,
+                    52,
+                    0,
+                    196,
+                    12
+                ],
+                "spid": 479,
+                "iid": 242
+            },
+            {
+                "species": "greattusk",
+                "ability": "protosynthesis",
+                "item": "choicescarf",
+                "moves": [
+                    "rapidspin",
+                    "headlongrush",
+                    "knockoff",
+                    "stealthrock"
+                ],
+                "nature": "jolly",
+                "evs": [
+                    0,
+                    252,
+                    0,
+                    0,
+                    4,
+                    252
+                ],
+                "spid": 984,
+                "iid": 69
+            },
+            {
+                "species": "baxcalibur",
+                "ability": "thermalexchange",
+                "item": "choiceband",
+                "moves": [
+                    "glaiverush",
+                    "iceshard",
+                    "dragondance",
+                    "iciclecrash"
+                ],
+                "nature": "adamant",
+                "evs": [
+                    0,
+                    252,
+                    0,
+                    0,
+                    4,
+                    252
+                ],
+                "spid": 998,
+                "iid": 68
+            },
+            {
+                "species": "gholdengo",
+                "ability": "goodasgold",
+                "item": "choicescarf",
+                "moves": [
+                    "nastyplot",
+                    "makeitrain",
+                    "shadowball",
+                    "trick"
+                ],
+                "nature": "modest",
+                "evs": [
+                    248,
+                    0,
+                    108,
+                    72,
+                    0,
+                    80
+                ],
+                "spid": 1000,
+                "iid": 69
+            }
+        ]
+    },
+    {
+        "team_name": "team",
+        "members": [
+            {
+                "species": "toedscruel",
+                "ability": "myceliummight",
+                "item": "leftovers",
+                "moves": [
+                    "earthpower",
+                    "rapidspin",
+                    "spikes",
+                    "leafstorm"
+                ],
+                "nature": "sassy",
+                "evs": [
+                    252,
+                    0,
+                    0,
+                    4,
+                    252,
+                    0
+                ],
+                "spid": 949,
+                "iid": 242
+            },
+            {
+                "species": "irontreads",
+                "ability": "quarkdrive",
+                "item": "assaultvest",
+                "moves": [
+                    "voltswitch",
+                    "rapidspin",
+                    "earthquake",
+                    "knockoff"
+                ],
+                "nature": "jolly",
+                "evs": [
+                    0,
+                    252,
+                    0,
+                    0,
+                    4,
+                    252
+                ],
+                "spid": 990,
+                "iid": 581
+            },
+            {
+                "species": "floatzel",
+                "ability": "swiftswim",
+                "item": "choiceband",
+                "moves": [
+                    "icespinner",
+                    "wavecrash",
+                    "liquidation",
+                    "aquajet"
+                ],
+                "nature": "adamant",
+                "evs": [
+                    0,
+                    252,
+                    0,
+                    0,
+                    4,
+                    252
+                ],
+                "spid": 419,
+                "iid": 68
+            },
+            {
+                "species": "pelipper",
+                "ability": "drizzle",
+                "item": "damprock",
+                "moves": [
+                    "roost",
+                    "knockoff",
+                    "hurricane",
+                    "uturn"
+                ],
+                "nature": "bold",
+                "evs": [
+                    248,
+                    0,
+                    252,
+                    0,
+                    8,
+                    0
+                ],
+                "spid": 279,
+                "iid": 88
+            },
+            {
+                "species": "kingambit",
+                "ability": "supremeoverlord",
+                "item": "leftovers",
+                "moves": [
+                    "suckerpunch",
+                    "swordsdance",
+                    "lowkick",
+                    "kowtowcleave"
+                ],
+                "nature": "adamant",
+                "evs": [
+                    0,
+                    252,
+                    4,
+                    0,
+                    0,
+                    252
+                ],
+                "spid": 983,
+                "iid": 242
+            },
+            {
+                "species": "dragapult",
+                "ability": "infiltrator",
+                "item": "choiceband",
+                "moves": [
+                    "substitute",
+                    "dracometeor",
+                    "uturn",
+                    "flamethrower"
+                ],
+                "nature": "timid",
+                "evs": [
+                    0,
+                    0,
+                    0,
+                    252,
+                    4,
+                    252
+                ],
+                "spid": 887,
+                "iid": 68
+            }
+        ]
+    },
+    {
+        "team_name": "team",
+        "members": [
+            {
+                "species": "slowking",
+                "ability": "regenerator",
+                "item": "heavydutyboots",
+                "moves": [
+                    "chillingwater",
+                    "slackoff",
+                    "futuresight",
+                    "psyshock"
+                ],
+                "nature": "sassy",
+                "evs": [
+                    248,
+                    0,
+                    244,
+                    0,
+                    16,
+                    0
+                ],
+                "spid": 199,
+                "iid": 715
+            },
+            {
+                "species": "baxcalibur",
+                "ability": "thermalexchange",
+                "item": "loadeddice",
+                "moves": [
+                    "iciclecrash",
+                    "iciclespear",
+                    "iceshard",
+                    "earthquake"
+                ],
+                "nature": "adamant",
+                "evs": [
+                    0,
+                    252,
+                    0,
+                    0,
+                    4,
+                    252
+                ],
+                "spid": 998,
+                "iid": 0
+            },
+            {
+                "species": "rotomwash",
+                "ability": "levitate",
+                "item": "leftovers",
+                "moves": [
+                    "terablast",
+                    "voltswitch",
+                    "protect",
+                    "trick"
+                ],
+                "nature": "timid",
+                "evs": [
+                    0,
+                    0,
+                    0,
+                    252,
+                    4,
+                    252
+                ],
+                "spid": 479,
+                "iid": 242
+            },
+            {
+                "species": "cinderace",
+                "ability": "libero",
+                "item": "heavydutyboots",
+                "moves": [
+                    "uturn",
+                    "pyroball",
+                    "suckerpunch",
+                    "highjumpkick"
+                ],
+                "nature": "jolly",
+                "evs": [
+                    0,
+                    252,
+                    0,
+                    0,
+                    4,
+                    252
+                ],
+                "spid": 815,
+                "iid": 715
+            },
+            {
+                "species": "greattusk",
+                "ability": "protosynthesis",
+                "item": "boosterenergy",
+                "moves": [
+                    "earthquake",
+                    "knockoff",
+                    "stealthrock",
+                    "rapidspin"
+                ],
+                "nature": "impish",
+                "evs": [
+                    252,
+                    0,
+                    168,
+                    0,
+                    24,
+                    64
+                ],
+                "spid": 984,
+                "iid": 0
+            },
+            {
+                "species": "gholdengo",
+                "ability": "goodasgold",
+                "item": "covertcloak",
+                "moves": [
+                    "nastyplot",
+                    "makeitrain",
+                    "shadowball",
+                    "focusblast"
+                ],
+                "nature": "timid",
+                "evs": [
+                    0,
+                    0,
+                    0,
+                    252,
+                    4,
+                    252
+                ],
+                "spid": 1000,
+                "iid": 0
+            }
+        ]
+    },
+    {
+        "team_name": "team",
+        "members": [
+            {
+                "species": "roaringmoon",
+                "ability": "protosynthesis",
+                "item": "leftovers",
+                "moves": [
+                    "acrobatics",
+                    "uturn",
+                    "crunch",
+                    "dragondance"
+                ],
+                "nature": "jolly",
+                "evs": [
+                    0,
+                    252,
+                    0,
+                    0,
+                    4,
+                    252
+                ],
+                "spid": 1005,
+                "iid": 242
+            },
+            {
+                "species": "ironvaliant",
+                "ability": "quarkdrive",
+                "item": "choicespecs",
+                "moves": [
+                    "psyshock",
+                    "moonblast",
+                    "calmmind",
+                    "thunderbolt"
+                ],
+                "nature": "jolly",
+                "evs": [
+                    0,
+                    252,
+                    0,
+                    0,
+                    4,
+                    252
+                ],
+                "spid": 1006,
+                "iid": 70
+            },
+            {
+                "species": "gholdengo",
+                "ability": "goodasgold",
+                "item": "choicescarf",
+                "moves": [
+                    "substitute",
+                    "trick",
+                    "makeitrain",
+                    "shadowball"
+                ],
+                "nature": "timid",
+                "evs": [
+                    0,
+                    0,
+                    0,
+                    252,
+                    4,
+                    252
+                ],
+                "spid": 1000,
+                "iid": 69
+            },
+            {
+                "species": "greattusk",
+                "ability": "protosynthesis",
+                "item": "leftovers",
+                "moves": [
+                    "rapidspin",
+                    "knockoff",
+                    "stealthrock",
+                    "bulkup"
+                ],
+                "nature": "impish",
+                "evs": [
+                    0,
+                    120,
+                    252,
+                    0,
+                    136,
+                    0
+                ],
+                "spid": 984,
+                "iid": 242
+            },
+            {
+                "species": "cinderace",
+                "ability": "libero",
+                "item": "heavydutyboots",
+                "moves": [
+                    "willowisp",
+                    "uturn",
+                    "pyroball",
+                    "suckerpunch"
+                ],
+                "nature": "adamant",
+                "evs": [
+                    0,
+                    252,
+                    0,
+                    0,
+                    4,
+                    252
+                ],
+                "spid": 815,
+                "iid": 715
+            },
+            {
+                "species": "kingambit",
+                "ability": "supremeoverlord",
+                "item": "blackglasses",
+                "moves": [
+                    "ironhead",
+                    "swordsdance",
+                    "suckerpunch",
+                    "kowtowcleave"
+                ],
+                "nature": "adamant",
+                "evs": [
+                    96,
+                    252,
+                    0,
+                    0,
+                    0,
+                    160
+                ],
+                "spid": 983,
+                "iid": 35
+            }
+        ]
+    },
+    {
+        "team_name": "team",
+        "members": [
+            {
+                "species": "garganacl",
+                "ability": "purifyingsalt",
+                "item": "leftovers",
+                "moves": [
+                    "irondefense",
+                    "protect",
+                    "recover",
+                    "stealthrock"
+                ],
+                "nature": "impish",
+                "evs": [
+                    248,
+                    0,
+                    196,
+                    0,
+                    56,
+                    8
+                ],
+                "spid": 934,
+                "iid": 242
+            },
+            {
+                "species": "tsareena",
+                "ability": "leafguard",
+                "item": "leftovers",
+                "moves": [
+                    "tropkick",
+                    "swagger",
+                    "powerwhip",
+                    "rapidspin"
+                ],
+                "nature": "adamant",
+                "evs": [
+                    252,
+                    252,
+                    0,
+                    0,
+                    4,
+                    0
+                ],
+                "spid": 763,
+                "iid": 242
+            },
+            {
+                "species": "kingambit",
+                "ability": "supremeoverlord",
+                "item": "leftovers",
+                "moves": [
+                    "suckerpunch",
+                    "kowtowcleave",
+                    "ironhead",
+                    "rocktomb"
+                ],
+                "nature": "adamant",
+                "evs": [
+                    124,
+                    252,
+                    0,
+                    0,
+                    132,
+                    0
+                ],
+                "spid": 983,
+                "iid": 242
+            },
+            {
+                "species": "greattusk",
+                "ability": "protosynthesis",
+                "item": "choicescarf",
+                "moves": [
+                    "icespinner",
+                    "knockoff",
+                    "earthquake",
+                    "rapidspin"
+                ],
+                "nature": "impish",
+                "evs": [
+                    252,
+                    0,
+                    80,
+                    0,
+                    0,
+                    176
+                ],
+                "spid": 984,
+                "iid": 69
+            },
+            {
+                "species": "rotomwash",
+                "ability": "levitate",
+                "item": "leftovers",
+                "moves": [
+                    "hydropump",
+                    "discharge",
+                    "voltswitch",
+                    "protect"
+                ],
+                "nature": "bold",
+                "evs": [
+                    252,
+                    0,
+                    252,
+                    0,
+                    4,
+                    0
+                ],
+                "spid": 479,
+                "iid": 242
+            },
+            {
+                "species": "dragapult",
+                "ability": "infiltrator",
+                "item": "heavydutyboots",
+                "moves": [
+                    "hex",
+                    "thunderbolt",
+                    "willowisp",
+                    "dracometeor"
+                ],
+                "nature": "modest",
+                "evs": [
+                    0,
+                    0,
+                    4,
+                    252,
+                    0,
+                    252
+                ],
+                "spid": 887,
+                "iid": 715
+            }
+        ]
+    },
+    {
+        "team_name": "team",
+        "members": [
+            {
+                "species": "baxcalibur",
+                "ability": "thermalexchange",
+                "item": "heavydutyboots",
+                "moves": [
+                    "earthquake",
+                    "iciclecrash",
+                    "iceshard",
+                    "dragondance"
+                ],
+                "nature": "jolly",
+                "evs": [
+                    0,
+                    252,
+                    0,
+                    0,
+                    4,
+                    252
+                ],
+                "spid": 998,
+                "iid": 715
+            },
+            {
+                "species": "irontreads",
+                "ability": "quarkdrive",
+                "item": "leftovers",
+                "moves": [
+                    "rapidspin",
+                    "stealthrock",
+                    "knockoff",
+                    "steelbeam"
+                ],
+                "nature": "jolly",
+                "evs": [
+                    248,
+                    0,
+                    0,
+                    0,
+                    156,
+                    104
+                ],
+                "spid": 990,
+                "iid": 242
+            },
+            {
+                "species": "kingambit",
+                "ability": "supremeoverlord",
+                "item": "leftovers",
+                "moves": [
+                    "suckerpunch",
+                    "ironhead",
+                    "kowtowcleave",
+                    "swordsdance"
+                ],
+                "nature": "adamant",
+                "evs": [
+                    112,
+                    252,
+                    0,
+                    0,
+                    0,
+                    144
+                ],
+                "spid": 983,
+                "iid": 242
+            },
+            {
+                "species": "dragapult",
+                "ability": "infiltrator",
+                "item": "choicespecs",
+                "moves": [
+                    "willowisp",
+                    "uturn",
+                    "hex",
+                    "dragondarts"
+                ],
+                "nature": "timid",
+                "evs": [
+                    0,
+                    4,
+                    0,
+                    252,
+                    0,
+                    252
+                ],
+                "spid": 887,
+                "iid": 70
+            },
+            {
+                "species": "greattusk",
+                "ability": "protosynthesis",
+                "item": "leftovers",
+                "moves": [
+                    "earthquake",
+                    "knockoff",
+                    "headlongrush",
+                    "stealthrock"
+                ],
+                "nature": "impish",
+                "evs": [
+                    252,
+                    0,
+                    252,
+                    0,
+                    4,
+                    0
+                ],
+                "spid": 984,
+                "iid": 242
+            },
+            {
+                "species": "gholdengo",
+                "ability": "goodasgold",
+                "item": "choicescarf",
+                "moves": [
+                    "makeitrain",
+                    "shadowball",
+                    "focusblast",
+                    "trick"
+                ],
+                "nature": "modest",
+                "evs": [
+                    200,
+                    0,
+                    0,
+                    68,
+                    4,
+                    236
+                ],
+                "spid": 1000,
+                "iid": 69
+            }
+        ]
+    }
+]
