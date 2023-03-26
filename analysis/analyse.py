@@ -3,6 +3,8 @@ import json
 import requests
 import numpy as np
 
+from sentence_transformers import SentenceTransformer
+
 from typing import List, Dict, Any, Sequence
 from analysis.model import Model, NATURES
 
@@ -706,7 +708,7 @@ def main():
     # plt.ylabel("Distance")
     # plt.show()
 
-    model = KMeans(n_clusters=18)#, distance_threshold=40)
+    model = KMeans(n_clusters=18)  # , distance_threshold=40)
     labels = model.fit_predict(vectors.cpu().numpy())
 
     # cluster_centers = torch.stack(
@@ -716,26 +718,32 @@ def main():
     cluster_centers = cluster_centers.to(device)
 
     min_dist = torch.cdist(vectors, cluster_centers)
-    min_dist = min_dist.max() - min_dist
 
     closest = {
         # label: [team for _label, team in zip(labels, teams) if _label == label]
-        label: teams[min_dist[labels == label][:, label].argmin().item()]
+        label: teams[min_dist[:, label].argmin().item()]
         for label in np.unique(labels)
     }
 
     clusters = [
         # {"team_name": "team", "members": closest[i][0]} for i in range(len(closest))
-        {"team_name": "team", "members": closest[i]} for i in range(len(closest))
+        {"team_name": "team", "members": closest[i]}
+        for i in range(len(closest))
     ]
 
-    for cluster in clusters:
+    for n, cluster in enumerate(clusters):
         for member in cluster["members"]:
             member["spid"] = dex["9"][member["species"]]["num"]
             try:
                 member["iid"] = items[member["item"]]
             except:
                 member["iid"] = 0
+
+        cluster["fraction"] = (labels == n).sum() / 2048
+
+        # https://pokepast.es/create
+
+    clusters = list(sorted(clusters, reverse=True, key=lambda x: x["fraction"]))
 
     with open("clusters.json", "w") as f:
         json.dump(clusters, f)

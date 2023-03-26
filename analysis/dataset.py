@@ -1,3 +1,4 @@
+import os
 import json
 import torch
 import requests
@@ -83,7 +84,7 @@ class TrainDataset:
         self.full_queue = mp.Queue(maxsize=num_buffers)
 
         procs = []
-        for _ in range(16):
+        for _ in range(os.cpu_count() // 2):
             proc = mp.Process(target=self.generate_batch)
             procs.append(proc)
             proc.start()

@@ -89,8 +89,7 @@ def main(args):
     model = Model(9, 512).to(device)
     optimizer = optim.Adam(model.parameters(), lr=args.lr)
 
-    for epoch in range(1, args.epochs + 1):
-        train(model, device, train_dataset, optimizer, epoch, args)
+    train(model, device, train_dataset, optimizer, 1, args)
 
 
 if __name__ == "__main__":

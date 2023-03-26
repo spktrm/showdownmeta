@@ -1,0 +1,37 @@
+Tricksun: A team that combines Trick Room and Sun strategies, using slower Pokémon that excel in harsh sunlight.
+Trickfear: A team that utilizes Trick Room and F.E.A.R. (Focus Sash, Endeavor, Quick Attack, Rattata) strategies to surprise opponents and make use of low-level Pokémon.
+Rainstall: A stall team that relies on Rain to increase the defensive capabilities of Water-type Pokémon and limit opposing Pokémon's abilities.
+Swagplay: A team that uses Swagger and Foul Play combinations to confuse opponents and turn their own stat boosts against them.
+Gravity: A team that utilizes the move Gravity to ground all Pokémon, making normally immune or resistant Pokémon vulnerable to Ground-type attacks.
+Batonpass: A team that uses Baton Pass to transfer stat boosts, Substitute, or other status effects between teammates.
+Trickroom: A team designed around the move Trick Room, which reverses the order of speed, allowing slower Pokémon to move first.
+Hailstall: A stall team that uses Hail to increase the defenses of Ice-type Pokémon and chip away at the opponent's health.
+Sunstall: A stall team that utilizes Sun to bolster the defenses of Fire and Grass-type Pokémon and weaken Water-type moves.
+Fear: A team built around the F.E.A.R. strategy, using low-level Pokémon with Focus Sash, Endeavor, and Quick Attack.
+Hyperoffense: A team that prioritizes high damage output with fast, hard-hitting Pokémon to quickly defeat opponents.
+Sandstall: A stall team that uses Sandstorm to increase the defenses of Rock-type Pokémon and damage non-Rock, Ground, and Steel-types.
+Offense: A team focused on offensive pressure through powerful and fast Pokémon to overwhelm opponents.
+Hailfear: A team that combines Hail and F.E.A.R. strategies to increase Ice-type Pokémon's survivability and use low-level Pokémon with Endeavor and Quick Attack.
+Rain: A team centered around Rain Dance or Drizzle, using Water-type Pokémon and moves that benefit from rain.
+Voltturn: A team built around the moves Volt Switch and U-turn, allowing for momentum control and constant switching.
+Sand: A team designed around Sandstorm, which supports Rock, Ground, and Steel-type Pokémon and damages other types.
+Allweather: A team that utilizes multiple weather effects to adapt to different situations and counter various strategies.
+Sun: A team that uses Sunny Day or Drought to power up Fire-type moves and weaken Water-type moves.
+Dragmag: A team featuring Dragon and Steel-type Pokémon, exploiting their natural synergy and offensive capabilities.
+Sandoffense: An offensive team that benefits from Sandstorm, with Rock, Ground, and Steel-type Pokémon that can hit hard.
+Balance: A team with a mix of offensive and defensive Pokémon to handle various threats and situations.
+Sunoffense: An offensive team built around the Sun weather effect, focusing on Fire and Grass-type Pokémon.
+Trapper: A team that uses trapping moves or abilities to prevent opponents from switching out and force favorable matchups.
+Rainoffense: An offensive team that capitalizes on Rain, using Water-type Pokémon or Pokémon with Swift Swim ability.
+Trickhail: A team that combines Trick Room and Hail strategies, using slower Ice-type Pokémon that excel in hail.
+Trickrain: A team that mixes Trick Room and Rain strategies, focusing on slow, powerful Water-type Pokémon.
+Tailwind: A team that uses the move Tailwind to double the Speed of its Pokémon for a few turns, allowing for fast, aggressive plays and outspeeding opponents.
+Semistall: A team that employs a mix of stall and offensive strategies, using Pokémon with good defenses and offensive capabilities to outlast opponents while dealing damage.
+Multiweather: A team that utilizes multiple weather effects, switching between them to adapt to different situations and take advantage of various type synergies.
+Stall: A team that focuses on wearing down the opponent's Pokémon through passive damage and status effects while preserving its own through high defenses and recovery moves.
+Hailoffense: An offensive team built around the Hail weather effect, featuring Ice-type Pokémon and those that benefit from hail.
+Sandfear: A team that combines Sandstorm and F.E.A.R. strategies to increase the defenses of Rock-type Pokémon and use low-level Pokémon with Endeavor and Quick Attack.
+Tricksand: A team that combines Trick Room and Sandstorm strategies, using slower Pokémon that excel in sandstorm conditions.
+Weatherless: A team that does not rely on weather effects, instead focusing on strong type synergies and Pokémon abilities.
+Choice: A team built around Choice items (Choice Band, Choice Specs, Choice Scarf) that grant significant stat boosts but lock the Pokémon into a single move.
+Hail: A team centered around Hail or Snow Warning, using Ice-type Pokémon and moves that benefit from hail conditions.
